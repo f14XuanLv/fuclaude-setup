@@ -1,0 +1,14 @@
+{
+  "bind": "0.0.0.0:8181",
+  "timeout": 600,
+  "proxy_url": "",
+  "real_logout": false,
+  "site_password": "",
+  "cookie_secret": "1234567890abcdefghijklmnopqrstuv",
+  "openai_base_url": "https://api.openai.com/v1",
+  "openai_api_key": "sk-xxx",
+  "moderation_model": "text-moderation-latest",
+  "moderation_enabled": false,
+  "signup_enabled": true,
+  "show_session_key": true
+}
